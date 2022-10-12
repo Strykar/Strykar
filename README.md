@@ -13,7 +13,7 @@
 
 - 📝 I occasionally write articles on [https://avizard.blogspot.com](https://avizard.blogspot.com)
 
-- 💬 Ask me about **{Linux, Windows} system & network administration.**
+- 💬 Ask me about **{Linux, *BSD, Windows} system & network administration.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/avinash-duduskar/](https://www.linkedin.com/in/avinash-duduskar/)
 
