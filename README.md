@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Aggressive yet sane persistent SSH with systemd and autossh](https://avizard.blogspot.com/2021/01/aggressive-yet-sane-persistent-ssh-with.html)
+- [Anycasting IPv6 TCP and UDP](https://avizard.blogspot.com/2017/12/anycasting-ipv6-tcp-and-udp-inspired-by.html)
+- [LEDE/OpenWRT on a PC Engines APU2&lpar;c4&rpar;](https://avizard.blogspot.com/2017/11/ledeopenwrt-on-pc-engines-apu2c4.html)
+- [IPsec and IKEv2 Android VPN](https://avizard.blogspot.com/2017/01/ipsec-and-ikev2-android-vpn.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
