@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "http://blogname.blogspot.com/feeds/posts/default?alt=rss"
+                feed_list: "http://avizard.blogspot.com/feeds/posts/default?alt=rss"
