@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I love motorcycles and 4WD's.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Aggressive yet sane persistent SSH with systemd and autossh](https://avizard.blogspot.com/2021/01/aggressive-yet-sane-persistent-ssh-with.html)
 - [Anycasting IPv6 TCP and UDP](https://avizard.blogspot.com/2017/12/anycasting-ipv6-tcp-and-udp-inspired-by.html)
