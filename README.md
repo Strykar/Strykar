@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avi</h1>
-<h3 align="center">A passionate network engineer from India.</h3>
+<h3 align="center">A passionate network engineer from Pune.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strykar&label=Profile%20views&color=0e75b6&style=flat" alt="strykar" /> </p>
 
