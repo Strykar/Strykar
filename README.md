@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/avihd" target="blank"><img src="https://img.shields.io/twitter/follow/avihd?logo=twitter&style=for-the-badge" alt="avihd" /></a> </p>
 
-- 🌱 I’m currently learning **the Arch Linux Build System**
+- 🌱 I’m currently learning **the Arch Linux Build System**, started way back with **Slackware 3.1**.
 
 - 👯 I’m looking to collaborate on [Livepeer](https://github.com/livepeer/go-livepeer)
 
