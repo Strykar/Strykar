@@ -13,7 +13,8 @@ per-program attribution, cross-architecture validation rather than relying
 on application-level benchmarks that obscure where the cost actually lives.
 
 I come to this through a long background in Linux and BSD systems and network
-engineering - Slackware 3.1 through to production Kubernetes and eBPF.
+engineering — Slackware 3.1 through to production Kubernetes and eBPF, with
+an unhealthy interest in what the hardware is actually doing.
 
 In my spare time I contribute to the [ArchWiki](https://wiki.archlinux.org/title/Special:Contributions/Strykar),
 mostly removing things that no longer work and maintain packages on the [AUR](https://aur.archlinux.org/packages?K=Strykar&SeB=m).
